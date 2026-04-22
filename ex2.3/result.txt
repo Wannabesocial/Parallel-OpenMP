@@ -1,0 +1,59 @@
+Benchmark Results
+=================
+
+Size: 10
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 0.000004 sec
+Policy: 1 | Threads: 2 | Avg Time: 0.000170 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.000197 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.003222 sec
+
+Size: 100
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 0.000017 sec
+Policy: 1 | Threads: 2 | Avg Time: 0.000202 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.000214 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.001623 sec
+
+Size: 1000
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 0.000326 sec
+Policy: 1 | Threads: 2 | Avg Time: 0.000659 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.000776 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.003175 sec
+
+Size: 10000
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 0.004068 sec
+Policy: 1 | Threads: 2 | Avg Time: 0.002945 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.003119 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.003687 sec
+
+Size: 100000
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 0.013201 sec
+Policy: 1 | Threads: 2 | Avg Time: 0.008548 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.007877 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.010657 sec
+
+Size: 1000000
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 0.144708 sec
+Policy: 1 | Threads: 2 | Avg Time: 0.094026 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.078732 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.069580 sec
+
+Size: 10000000
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 1.662503 sec
+Policy: 1 | Threads: 2 | Avg Time: 1.063138 sec
+Policy: 1 | Threads: 4 | Avg Time: 0.833527 sec
+Policy: 1 | Threads: 8 | Avg Time: 0.651439 sec
+
+Size: 100000000
+-----------------
+Policy: 0 | Threads: 2 | Avg Time: 18.794540 sec
+Policy: 1 | Threads: 2 | Avg Time: 11.805303 sec
+Policy: 1 | Threads: 4 | Avg Time: 9.050491 sec
+Policy: 1 | Threads: 8 | Avg Time: 6.775546 sec
+
